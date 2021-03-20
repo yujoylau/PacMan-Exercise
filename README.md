@@ -11,7 +11,7 @@ This pacman file is about adding more and more pacman that goes in any direction
 
 <h2> License Information </h2> 
 
-MIT License
+This is licensed by Massachusetts Institute of Technology (MIT).
 
 Copyright (c) 2021 Lau Yu Joy
 
