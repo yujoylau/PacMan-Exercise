@@ -2,14 +2,14 @@
 This pacman file is about adding more and more pacman that goes in any directions and bounces off when it hits the borders.
 
 <h2> How to Run </h2>
-#1 Download the files locally into your computer (ensure that they are in the same directory/folder)
-#2 Open chrome browser 
-#3 Drag and drop the index.html file into the browser
-#4 Enjoy!
+<li> #1 Download the files locally into your computer (ensure that they are in the same directory/folder)
+<li> #2 Open chrome browser 
+<li> #3 Drag and drop the index.html file into the browser
+<li> #4 Enjoy!
 
 <h2> Roadmap of Future Improvements </h2>
-#1 Every "add" will add a different coloured pacman
-#2 Add more pacman facing other directions 
+<li> #1 Every "add" will add a different coloured pacman
+<li> #2 Add more pacman facing other directions 
 
 <h2> License Information </h2> 
 
